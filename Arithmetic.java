@@ -1,7 +1,5 @@
-import java.io.*;
 class Arithmetic{
 public static void main(String args[]){
-
 //initialize
 int add,sub,mul;
 float div;
